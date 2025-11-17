@@ -3,7 +3,7 @@
 # Laravel Toronto meet-up, Dec 18/2025
 Laravel Toronto meet-up, on Dec 18, 2025 (details TBA)
 
-<br>
+##
 
 - food & beverages sponsored by [YTZ International, Inc](https://ytz.com) 
 - Google Map: [https://maps.app.goo.gl/YZgJHRtixdrNvKW37](https://maps.app.goo.gl/YZgJHRtixdrNvKW37)
