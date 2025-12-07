@@ -12,9 +12,13 @@ Laravel Toronto meet-up, on Dec 18, 2025 (details TBA)
 ##
 I am very happy to announce that our next Laravel Toronto meet-up will be at YTZ International, near Spadina/Queen.
 
-We do not have a presentation topic yet, but we do have a date & venue.
+We will open up with a brief look at features of the newly released PHP 8.5.
 
-Details TBA.
+I will then take a look at FrankenPHP. I will attempt to do so using Plain English.
+
+I have a few LaraConUS t-shirts to give away. 
+
+Peter Heslop has generously provided a copy of his new book, "Laravel For The Rest Of Us" to give away.
 
 Schedule:
 - 6:00pm to 7:00pm: meet-and-greet
