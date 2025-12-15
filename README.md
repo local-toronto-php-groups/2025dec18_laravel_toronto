@@ -1,7 +1,7 @@
 ![header_image](https://raw.githubusercontent.com/local-toronto-php-groups/2025dec18_laravel_toronto/main/ytz_billy_bishop_airport1_frankenphp.png)
 
 # Laravel Toronto meet-up, Dec 18/2025
-Laravel Toronto meet-up, on Dec 18, 2025 (details TBA)
+Laravel Toronto meet-up, on Dec 18, 2025 (Plain English look at FrankenPHP)
 
 ##
 
