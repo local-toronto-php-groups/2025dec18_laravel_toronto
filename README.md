@@ -28,5 +28,10 @@ Schedule:
 ##
 Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/312053173/](https://www.meetup.com/laravel-toronto/events/312053173/)
 
+##
+Links:
+- [(YouTube) PHP 8.5: Fast Facts You Need To Know](https://www.youtube.com/watch?v=Xw2IGGw_XRM)
+- [(audio podcast) PHP Serverless Profiles #6: Plain English Look At FrankenPHP](https://phpserverlessprofiles.com/episode/php-serverless-profiles-ep6-plain-english-look-at-frankenphp)
+
 
 
