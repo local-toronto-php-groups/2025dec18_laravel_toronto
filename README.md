@@ -33,5 +33,20 @@ Links:
 - [(YouTube) PHP 8.5: Fast Facts You Need To Know](https://www.youtube.com/watch?v=Xw2IGGw_XRM)
 - [(audio podcast) PHP Serverless Profiles #6: Plain English Look At FrankenPHP](https://phpserverlessprofiles.com/episode/php-serverless-profiles-ep6-plain-english-look-at-frankenphp)
 
+##
+
+![Welcome to YTZ International!](/IMG_0466.png)
+(Welcome to YTZ International!)
+
+!["Laravel For The Rest Of Us" giveaway winner](/IMG_0467.png)
+("Laravel For The Rest Of Us" giveaway winner)
+
+![Jeff, Kwame, Lucasz, Tolga, Nuno, Peter, Bob](/IMG_0473.png)
+(Jeff, Kwame, Lucasz, Tolga, Nuno, Peter, Bob)
+
+
+![Spadina at Queen](/IMG_0476.png)
+(Spadina at Queen)
+
 
 
