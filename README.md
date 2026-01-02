@@ -32,6 +32,7 @@ Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/312053173/](h
 Links:
 - [(YouTube) PHP 8.5: Fast Facts You Need To Know](https://www.youtube.com/watch?v=Xw2IGGw_XRM)
 - [(audio podcast) PHP Serverless Profiles #6: Plain English Look At FrankenPHP](https://phpserverlessprofiles.com/episode/php-serverless-profiles-ep6-plain-english-look-at-frankenphp)
+- [(YouTube) Ken Thompson tells how he developed the Go language at Google](https://www.youtube.com/watch?v=NTrAISNdf70)
 
 ##
 
