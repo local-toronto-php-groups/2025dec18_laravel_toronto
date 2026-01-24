@@ -34,6 +34,7 @@ Links:
 - [(audio podcast) PHP Serverless Profiles #6: Plain English Look At FrankenPHP](https://phpserverlessprofiles.com/episode/php-serverless-profiles-ep6-plain-english-look-at-frankenphp)
 - [(YouTube) Ken Thompson tells how he developed the Go language at Google](https://www.youtube.com/watch?v=NTrAISNdf70)
 - [(YouTube) The Untold Story of Go | Google’s Secret War on Complexity](https://www.youtube.com/watch?v=kbs1fBnSQu0)
+- [(YouTube) FrankenPHP With Alexandre Daubois - PHP Architect Community Corner ](https://www.youtube.com/watch?v=bTnf3Fe59I4)
 
 ##
 
